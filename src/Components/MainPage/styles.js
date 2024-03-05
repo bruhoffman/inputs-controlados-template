@@ -20,3 +20,11 @@ export const Input = styled.input`
     width: 100%;
     padding: 8px;
 `
+export const Selection = styled.select`
+    width: 100%;
+    padding: 8px;
+`
+
+export const Botao = styled.button`
+    padding: 4px;
+`
